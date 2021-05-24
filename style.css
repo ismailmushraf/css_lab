@@ -21,3 +21,23 @@ span {
     font-weight: 900;
     color: darkred
 }
+
+.boxes {
+    margin: 3em;
+    padding: 1em;
+    border: 2px dashed #ff22ff;
+    border-radius: 20px;
+    width: 30em;
+}       
+
+#box1 {
+    background-color: yellow;
+}
+
+#box2 {
+    background-color: gold;
+}
+
+#boxN {
+    background-color: darkgoldenrod;
+}
