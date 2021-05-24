@@ -28,6 +28,7 @@ span {
     border: 2px dashed #ff22ff;
     border-radius: 20px;
     width: 30em;
+    display: block;
 }       
 
 #box1 {
@@ -36,6 +37,9 @@ span {
 
 #box2 {
     background-color: gold;
+    position: relative;
+    left: 35em;
+    bottom: 12em;
 }
 
 #boxN {
