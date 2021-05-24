@@ -49,8 +49,29 @@ span {
     border-radius: 50px;
     background-color: #010233;
     position: absolute;
-    left: 7em;
+    left: 6em;
 }
+
+h1 {
+    color: saddlebrown;
+}
+
+.original {
+    color: navy;
+}
+
+.additional {
+    color: orangered;
+}
+
+#show1 {
+    color: blueviolet;
+}
+
+#show2 {
+    color: mediumvioletred;
+}
+
 
 
 
