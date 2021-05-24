@@ -37,11 +37,20 @@ span {
 
 #box2 {
     background-color: gold;
-    position: relative;
-    left: 35em;
-    bottom: 12em;
 }
 
 #boxN {
     background-color: darkgoldenrod;
 }
+
+.img-box {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: #010233;
+    position: absolute;
+    left: 7em;
+}
+
+
+
